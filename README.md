@@ -55,7 +55,7 @@ This project is a Java-based text analysis tool designed to preprocess and analy
    - Based on the user's selection, it processes all `.txt` files in the corresponding topic by utilizing the `Article` and `Frequency Sort` classes.
 
 ## UML Diagram
-![UML Diagram]("C:\Users\mpack\Downloads\umldiagram.png")
+![UML Diagram](https://github.com/michaelmuscara/Semester-Project-Milestone-1/blob/main/Milestone%201%20UML%20Diagram%20(1).jpg)
 
 The UML diagram illustrates the relationships between the main classes in this project: `Article`, `FrequencySort`, and `Main`. Each class is responsible for a specific task in the article preprocessing workflow.
 
