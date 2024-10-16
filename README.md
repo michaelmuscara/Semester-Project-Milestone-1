@@ -54,6 +54,11 @@ This project is a Java-based text analysis tool designed to preprocess and analy
    - This is the entry point for the program. It allows the user to select a topic (Baseball, Basketball, or Football) using a `Scanner`.
    - Based on the user's selection, it processes all `.txt` files in the corresponding topic by utilizing the `Article` and `Frequency Sort` classes.
 
+## UML Diagram
+![UML Diagram]("C:\Users\mpack\Downloads\umldiagram.png")
+
+The UML diagram illustrates the relationships between the main classes in this project: `Article`, `FrequencySort`, and `Main`. Each class is responsible for a specific task in the article preprocessing workflow.
+
 ## Conclusion
 This project successfully implements a basic text analysis tool, hitting the Milestone 1 requirements by:
 - Preprocessing articles from different topics.
